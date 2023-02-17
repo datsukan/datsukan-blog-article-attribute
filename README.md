@@ -1,0 +1,1 @@
+# datsukan-blog-article-attribute

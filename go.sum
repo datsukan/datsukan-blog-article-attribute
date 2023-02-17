@@ -1,5 +1,3 @@
-github.com/contentful-labs/contentful-go v0.4.0 h1:SK5UMrodqMrxoUmTVml72Bx6RdmaSITdCUPDM9Bnu+k=
-github.com/contentful-labs/contentful-go v0.4.0/go.mod h1:qzSGYy3azT3+NvjfY8GJBK059UN+GFFNK00Zm8aV/V4=
 github.com/contentful-labs/contentful-go v0.4.1-0.20210618101201-b51913e15280 h1:OEKIycSX1NaexFIBsQ9AhODZ/PXBvXCxQRx+CgRYtvo=
 github.com/contentful-labs/contentful-go v0.4.1-0.20210618101201-b51913e15280/go.mod h1:/j1CpjoartamE6XrbyhsIp6gCtgwCOlcrYHQY3dG/vM=
 github.com/davecgh/go-spew v1.1.0 h1:ZDRjVQ15GmhC3fiQ8ni8+OwkZQO4DARzQgrnXU1Liz8=
@@ -8,8 +6,6 @@ github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1 h1:EGx4pi6eqNxGa
 github.com/gopherjs/gopherjs v0.0.0-20181017120253-0766667cb4d1/go.mod h1:wJfORRmW1u3UXTncJ5qlYoELFm8eSnnEO6hX4iZ3EWY=
 github.com/jtolds/gls v4.20.0+incompatible h1:xdiiI2gbIgH/gLH7ADydsJ1uDOEzR8yvV7C0MuV77Wo=
 github.com/jtolds/gls v4.20.0+incompatible/go.mod h1:QJZ7F/aHp+rZTRtaJ1ow/lLfFfVYBRgL+9YlvaHOwJU=
-github.com/moul/http2curl v1.0.0 h1:dRMWoAtb+ePxMlLkrCbAqh4TlPHXvoGUSQ323/9Zahs=
-github.com/moul/http2curl v1.0.0/go.mod h1:8UbvGypXm98wA/IqH45anm5Y2Z6ep6O31QGOAZ3H0fQ=
 github.com/pmezard/go-difflib v1.0.0 h1:4DBwDE0NGyQoBHbLQYPwSUPoCMWR5BEzIk/f1lZbAQM=
 github.com/pmezard/go-difflib v1.0.0/go.mod h1:iKH77koFhYxTK1pcRnkKkqfTogsbg7gZNVY4sRDYZ/4=
 github.com/smartystreets/assertions v1.2.0 h1:42S6lae5dvLc7BrLu/0ugRtcFVjoJNMC/N3yZFZkDFs=
